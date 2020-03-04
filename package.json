@@ -1,0 +1,18 @@
+{
+  "name": "daily-fe-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test && jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.8.3",
+    "@types/node-fetch": "^2.5.5",
+    "jest": "^25.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
